@@ -1,1 +1,2 @@
 # crowdfunding
+THIS IS MY FIRST GIT RESPOSITORY
